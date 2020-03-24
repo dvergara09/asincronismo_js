@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo_js",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Daniel Vergara",
+  "license": "MIT"
+}
